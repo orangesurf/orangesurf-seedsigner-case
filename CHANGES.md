@@ -6,6 +6,10 @@ When adding information, please provide a brief entry with a date and the nature
 
 # CHANGES:
 
-Jan 26, 2022
- - Initial release by OrangeSurf (https://orange.surf)
- - Add step files
+Date using ISO 8601 (YYYY-MM-DD)
+
+2022-01-26
+- Initial release by OrangeSurf (https://orange.surf)
+
+2022-01-27 
+- Add step files (OrangeSurf)
