@@ -18,7 +18,7 @@ Parts are confirmed to assemble readily when printed on Prusa MK3S with 0.4mm no
 
 
 # Camera
-The camera used was the ZeroCam - see [drawing](/drawings/ZeroCam-Measurements.pdf) for dimensions (as measured).
+The camera used was the ZeroCam.
 
 ![camera](/images/ssc-camera.JPG)
 
@@ -27,7 +27,11 @@ If using an alternate camera the dimension limits for fits are
 - Lens housing diameter: Less than 7mm
 - Max ribbon width: Less than 12mm
 
-Availible from
+![camera-drawing](/drawings/ZeroCam-Measurements.png)
+
+PDF of A4 scaled [drawing](/drawings/ZeroCam-Measurements.pdf)
+
+ZeroCam availible from
 - https://thepihut.com/collections/zerocam/products/zerocam-camera-for-raspberry-pi-zero
 - https://shop.pimoroni.com/products/raspberry-pi-zero-camera-module?variant=37751082058
 
