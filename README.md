@@ -12,6 +12,7 @@ Donations are accepted in bitcoin: bc1qf3hv4em9mclmguqvwug8wl45yp7vk3ssv5wuxr
 
 # Printer Settings
 Parts are confirmed to assemble readily when printed on Prusa MK3S with 0.4mm nozzle at the following settings
+- Print all parts with no supports anywhere
 - Print all buttons upside down (on flat face) at lowest layer height possible. 0.05mm confirmed to work
 - Print cover plate upside down (on flat face). 0.10mm confirmed to work
 - Print outer case upright (on flat face). 0.10mm confirmed to work. 
