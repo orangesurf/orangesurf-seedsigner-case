@@ -32,10 +32,10 @@ Availible from
 - https://shop.pimoroni.com/products/raspberry-pi-zero-camera-module?variant=37751082058
 
 
-# GPIO Header Pins
+# PCB Seperation Distance
 
-The case is designed for a seperation distance between the underside of the waveshare pcb and the top of the raspberry 
-pi pcb of 9mm. This must be adjusted if using different height header pins.
+The case is designed for a 9mm pcb face-to-face distance (from the underside of the waveshare pcb to the top face of the 
+raspberry pi pcb). This must be adjusted if using different height header pins.
 
 ![gpio-pins](/images/ssc-gpio-pins.JPG)
 
