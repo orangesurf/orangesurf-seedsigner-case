@@ -17,7 +17,6 @@ Parts are confirmed to assemble readily when printed on Prusa MK3S with 0.4mm no
 - Print cover plate upside down (on flat face). 0.10mm confirmed to work
 - Print outer case upright (on flat face). 0.10mm confirmed to work. 
 
-
 # Camera
 The camera used was the ZeroCam.
 
@@ -37,8 +36,7 @@ ZeroCam availible from
 - https://shop.pimoroni.com/products/raspberry-pi-zero-camera-module?variant=37751082058
 
 
-# PCB Seperation Distance
-
+# PCB Separation Distance
 The case is designed for a 9mm pcb face-to-face distance (from the underside of the waveshare pcb to the top face of the 
 raspberry pi pcb). This must be adjusted if using different height header pins.
 
