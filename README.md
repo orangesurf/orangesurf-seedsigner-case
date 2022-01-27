@@ -31,7 +31,7 @@ If using an alternate camera the dimension limits for fits are
 
 PDF of A4 scaled [drawing](/drawings/ZeroCam-Measurements.pdf)
 
-ZeroCam availible from
+ZeroCam can be purchased from
 - https://thepihut.com/collections/zerocam/products/zerocam-camera-for-raspberry-pi-zero
 - https://shop.pimoroni.com/products/raspberry-pi-zero-camera-module?variant=37751082058
 
