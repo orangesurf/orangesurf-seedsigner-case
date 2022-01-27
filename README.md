@@ -4,6 +4,8 @@ Case for the seed signer DIY bitcoin hardware wallet by OrangeSurf (https://oran
 # Files & Documentation 
 For stl files see [stl folder ](/stl)
 
+For step files see [step folder ](/step)
+
 For Version information see https://github.com/orangesurf/orangesurf-seedsigner-case/blob/main/CHANGES.md
 
 For Licence information see https://github.com/orangesurf/orangesurf-seedsigner-case/blob/main/LICENCE.md
