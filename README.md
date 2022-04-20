@@ -16,6 +16,7 @@ Parts are confirmed to assemble readily when printed on Prusa MK3S with 0.4mm no
 - Print all buttons upside down (on flat face) at lowest layer height possible. 0.05mm confirmed to work
 - Print cover plate upside down (on flat face). 0.10mm confirmed to work
 - Print outer case upright (on flat face). 0.10mm confirmed to work. 
+- v01 for FDM, v02 for SLA only
 
 # Camera
 The camera used was the ZeroCam.

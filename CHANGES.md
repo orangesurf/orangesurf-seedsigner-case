@@ -16,3 +16,6 @@ Date using ISO 8601 (YYYY-MM-DD)
 - Add drawing of measured ZeroCam camera and links to products
 - Modify print settings to include no supports required
 - Add the PCB separation distance case is designed for (9mm)
+
+2022-04-20
+- Add v02 for SLA printing (STL & STEP files) & update readme / printing guides
