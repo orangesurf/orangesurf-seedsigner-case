@@ -20,3 +20,7 @@ Date using ISO 8601 (YYYY-MM-DD)
 2022-04-20
 - Add v02 for SLA printing (STL & STEP files) & update readme / printing guides
 - Add v02 experimental outer case (0.6mm wall thickness, down from 2mm)
+
+2022-08-02
+- Add v03beta for a common part file for STL & FDM & update readme / printing guides
+- Main changes are chamfered outer case lower edge (from rounded) for better FDM prints, decrease gap (0.3 to 0.15mm) between up/down buttons and center button
