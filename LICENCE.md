@@ -1,6 +1,6 @@
 # Licence
 
-Copyright (C) OrangeSurf (https://orange.surf) 2022
+Copyright (C) OrangeSurf (https://orange.surf) 2023
 
 This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
 
