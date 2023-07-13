@@ -19,11 +19,11 @@ For Licence information see https://github.com/orangesurf/orangesurf-seedsigner-
 For General information see https://github.com/orangesurf/orangesurf-seedsigner-case/blob/main/README.md
 
 # Latest Version Information
-- v04 is a 2 part design using live button hinges
+- v05 is a 2 part design using live button hinges
 
 
 # Assembly
-- M2 bress inserts should be fitted using a soldering iron into the coverPlate
+- M2 brass inserts should be fitted using a soldering iron into the coverPlate
 - M2 countersunk screws (20mm Length) are inserted into the holes in the underside of the outerCase
 
 
@@ -34,7 +34,7 @@ Parts are designed for printing without support on a Prusa MK3S with 0.6mm nozzl
 
 
 # Camera
-V04 is compatible with both the ZeroCam and the more common large pi camera boards.
+V04/5 is compatible with both the ZeroCam and the more common large pi camera boards.
 
 
 # PCB Separation Distance
@@ -45,5 +45,9 @@ The case is designed for hammer header pins.
 - v01 for FDM
 - v02 is v01 modified for SLA (thinner walls)
 - v03-beta is v02 modified for FDM printing 
+- v04 is live hinge button version with screw assembly
+- v05 switches charging port to power only microUSB
 
 https://github.com/orangesurf/orangesurf-seedsigner-case/
+
+![ssc-v5](/images/ssc-v5.png)
