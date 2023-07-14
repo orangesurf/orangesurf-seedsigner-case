@@ -19,7 +19,7 @@ For Licence information see https://github.com/orangesurf/orangesurf-seedsigner-
 For General information see https://github.com/orangesurf/orangesurf-seedsigner-case/blob/main/README.md
 
 # Latest Version Information
-- v05 is a 2 part design using live button hinges
+- v06 is a 2 part design using live button hinges
 
 
 # Assembly
@@ -34,7 +34,7 @@ Parts are designed for printing without support on a Prusa MK3S with 0.6mm nozzl
 
 
 # Camera
-V04/5 is compatible with both the ZeroCam and the more common large pi camera boards.
+V06 is compatible with both the ZeroCam and the more common large pi camera boards.
 
 
 # PCB Separation Distance
@@ -47,6 +47,7 @@ The case is designed for hammer header pins.
 - v03-beta is v02 modified for FDM printing 
 - v04 is live hinge button version with screw assembly
 - v05 switches charging port to power only microUSB
+- v06 moves the D-Pad hole for better hole concentricity with joystick axis
 
 https://github.com/orangesurf/orangesurf-seedsigner-case/
 

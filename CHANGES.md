@@ -32,3 +32,6 @@ Date using ISO 8601 (YYYY-MM-DD)
 2023-07-13
 - Add v05, switches charging port to power only microUSB
 - Round internal edges of charging port
+
+2023-07-14
+- Add v06, moves the D-Pad hole for better hole concentricity with joystick axis
