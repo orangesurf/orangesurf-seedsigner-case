@@ -5,13 +5,14 @@ For Licence information see https://github.com/orangesurf/orangesurf-seedsigner-
 For General information see https://github.com/orangesurf/orangesurf-seedsigner-case/blob/main/README.md
 
 # Important Version Information
-Suggested Version: V05
+Suggested Version: V06
 
 - v01 for FDM
 - v02 is v01 modified for SLA (thinner walls)
 - v03-beta is v02 modified for FDM printing 
 - v04 is live hinge button version with screw assembly
 - v05 switches charging port to power only microUSB
+- v06 moves the D-Pad hole for better hole concentricity with joystick axis
 
 
 # Printer Settings
