@@ -4,7 +4,10 @@ Case for the seed signer DIY bitcoin hardware wallet by OrangeSurf (https://oran
 ![ssc-iso](/images/ssc-iso.JPG)
 
 ## Donations 
-Donations are accepted in bitcoin: https://tips.orange.surf/apps/akitb1oDHpfr1EyVbyiXtEGGgBF/crowdfund
+Donations are accepted in bitcoin: https://tips.orange.surf/
+
+## Buy 
+You can buy at https://www.cryptocloaks.com/product/seedsigner-orange-surf-case/
 
 # Files & Documentation 
 - [stl files](/stl)
